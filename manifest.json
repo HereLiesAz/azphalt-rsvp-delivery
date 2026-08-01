@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Shows one word at a time in the same spot, a second each — rapid serial visual presentation, for reading without moving your eyes.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
